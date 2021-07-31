@@ -8,7 +8,7 @@ Work included:
 * Downloading and unzipping .zip files
 * Aggregating the CSVs into dataframes
 * Creating a dataframe of unscheduled outages by removing scheduled outages from all real-time outages
-* Unscheduled outage EDA
+* Performing unscheduled outage EDA
 * Creating time series-type features with the load data (moving averages, standard deviations, minimums/maximums)
 * Training random forest classification and logistic regression models to predict the likelihood of each 5min interval to have 1+ blackouts
-* Assessed results, looking at area under the ROC curve and outage likelihood in high- and low- predicted risk buckets
+* Assessing results, looking at area under the ROC curve and outage likelihood in high- and low- predicted risk buckets
